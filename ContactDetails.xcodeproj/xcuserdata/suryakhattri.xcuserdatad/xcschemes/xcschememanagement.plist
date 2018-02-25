@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ContactDetails 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>ContactDetails.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3C3B1C6B20399B3E0099DFE5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C3B1C7F20399B3E0099DFE5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3C3B1C8A20399B3F0099DFE5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
